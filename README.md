@@ -2,7 +2,7 @@
 
 This cross-platform sample tool detects exact and near duplicates of code maintained by the [Deep Program Understanding](https://www.microsoft.com/en-us/research/project/program/) group in Microsoft Research, Cambridge, UK. It has been created for the purpose of deduplicating code corpora for research purposes.
 
-*Requirements*: .NET Core 2.1 or higher. For parsing code, an appropriate runtime for each of the languages that needs to be tokenized is also required.
+*Requirements*: .NET Core 7 or higher. For parsing code, an appropriate runtime for each of the languages that needs to be tokenized is also required.
 
 To run the near-duplicate detection run:
 ```
